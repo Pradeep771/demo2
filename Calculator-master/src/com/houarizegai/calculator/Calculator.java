@@ -32,6 +32,7 @@ public class Calculator {
         Mx Calculator: 
         X = Row
         Y = Column
+        z
     
         +-------------------+
         |   +-----------+   |   y[0]
